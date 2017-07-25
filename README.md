@@ -1,7 +1,4 @@
-Code  Issues 0  Pull requests 0  Pulse
-index.html
 
- master Last changed by RebelKeithy about 1 hour ago
 <body>
 <div class="inner-content">
 <script charset="utf-8" type="text/javascript" src="https://static.polldaddy.com/p/9794855.js"></script>
